@@ -1,4 +1,4 @@
-linker:
+linker require:
 ```
 -lmingw32
 -lfreetype
