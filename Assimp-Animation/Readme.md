@@ -1,4 +1,5 @@
 linker:
+```
 > -lmingw32
 > -lfreetype
 > -lopengl32
@@ -11,3 +12,4 @@ linker:
 > -lMagick++-7.Q16HDRI
 > -lMagickCore-7.Q16HDRI
 > -lMagickWand-7.Q16HDRI
+```
